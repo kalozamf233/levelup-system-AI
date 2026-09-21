@@ -1,4 +1,4 @@
-# levelup-system-AI项目
+# levelup-system-AI
 
 ## 目录
 
